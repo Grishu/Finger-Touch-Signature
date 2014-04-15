@@ -3,13 +3,12 @@ Finger-Touch-Signature
 
 Create a signature using finger touch drawing on canvas.
 
-![SS1]()
+![SS1](http://1.bp.blogspot.com/-9OpiZNF56Ck/U0zz3VaOhOI/AAAAAAAAA7Y/t6OjDkQkock/s1600/s2.png)
 
-![SS2]()
+![SS2](http://3.bp.blogspot.com/-cC877PrXY3U/U0zz3U07FdI/AAAAAAAAA7c/_-HlN2ub-NI/s1600/s3.png)
 
-![SS3]() 
+![SS3](http://2.bp.blogspot.com/-B_xrOlMpv8U/U0zz32vbjBI/AAAAAAAAA7s/P4rZzGUYYIg/s1600/s4.png) 
 
-![SS4]() 
 
 
 
